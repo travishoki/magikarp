@@ -10,6 +10,9 @@ export function NavBar() {
       <NavLink to="/vision-board" className="button">
         Vision Board
       </NavLink>
+      <NavLink to="/splash" className="button">
+        Splash
+      </NavLink>
     </nav>
   )
 }
