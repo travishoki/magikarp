@@ -1,6 +1,6 @@
-import './App.css'
+import './HomePage.css'
 
-function App() {
+export function HomePage() {
   return (
     <section id="center">
       <img
@@ -13,5 +13,3 @@ function App() {
     </section>
   )
 }
-
-export default App
